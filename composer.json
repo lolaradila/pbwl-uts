@@ -1,0 +1,14 @@
+{
+    "name": "lenovo/uts_lola",
+    "description": "UTS PDWL",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Lola",
+            "email": "citralola09@gmail.com"
+        }
+    ]
+}
